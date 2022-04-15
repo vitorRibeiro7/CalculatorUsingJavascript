@@ -12,7 +12,7 @@
 
 <br>
 
-# Web View
+<h3 align="center">Web and Mobile View<h1>
 <p align="center">
     <img src="img/computer1.png" alt="">
 </p>
